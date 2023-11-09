@@ -1,5 +1,9 @@
 # Video Player
 
+
+## To access the application visit here :
+https://video-player-eosin-five.vercel.app/
+
 ## Installation
 
 1. Clone the repository: ```git clone https://github.com/rajeshds20/video-player.git```
